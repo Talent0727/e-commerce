@@ -15,7 +15,6 @@ Ecommerce项目包括：
 
 # 技术选型
 Spring Boot、Gradle、MySQL、Junit 5、Rest Assured、Docker、RabbitMQ/Kafka
-
 # 本地构建
 
 在本地构建之前必须完成以下步骤：
